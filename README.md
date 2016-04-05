@@ -1,4 +1,5 @@
 # Practica1IngSoft
+Marín Arriaga Adolfo
 
 Modelo de datos de un sistema de inició de sesión
 
